@@ -1,0 +1,64 @@
+body {
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.half-width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.name-highlights {
+  color: orange;
+}
+h1 {
+  font-size: 40px;
+}
+h3 {
+  font: bold;
+}
+.half-width img {
+  width: 75%;
+}
+.top-banner {
+  background-image: url(Image/top-banner.png);
+  background-repeat: no-repeat;
+}
+section {
+  height: 500px;
+}
+.link-button {
+  text-decoration: none;
+  background-color: orange;
+  color: aliceblue;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+  box-shadow: linear;
+}
+.hover-effect:hover {
+  background-color: gray;
+  color: white;
+}
+.middle-banner {
+  background-image: url(Image/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+.style-1 {
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 15px;
+  background-color: white;
+}
+#box1 {
+  border-left: 8px solid blue;
+}
+#box2 {
+  border-left: 8px solid greenyellow;
+}
+.bottom-banner {
+  background-image: url(Image/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-position: left;
+}
